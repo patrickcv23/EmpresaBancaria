@@ -1,0 +1,9 @@
+E:\Proyectos Visual Studio\EmpresaBancaria\BANCO.DATOS\bin\Debug\BANCO.DATOS.dll
+E:\Proyectos Visual Studio\EmpresaBancaria\BANCO.DATOS\bin\Debug\BANCO.DATOS.pdb
+E:\Proyectos Visual Studio\EmpresaBancaria\BANCO.DATOS\bin\Debug\ENTIDADES.dll
+E:\Proyectos Visual Studio\EmpresaBancaria\BANCO.DATOS\bin\Debug\ENTIDADES.pdb
+E:\Proyectos Visual Studio\EmpresaBancaria\BANCO.DATOS\obj\Debug\BANCO.DATOS.csproj.AssemblyReference.cache
+E:\Proyectos Visual Studio\EmpresaBancaria\BANCO.DATOS\obj\Debug\BANCO.DATOS.csproj.CoreCompileInputs.cache
+E:\Proyectos Visual Studio\EmpresaBancaria\BANCO.DATOS\obj\Debug\BANCO.DATOS.csproj.CopyComplete
+E:\Proyectos Visual Studio\EmpresaBancaria\BANCO.DATOS\obj\Debug\BANCO.DATOS.dll
+E:\Proyectos Visual Studio\EmpresaBancaria\BANCO.DATOS\obj\Debug\BANCO.DATOS.pdb

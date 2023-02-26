@@ -1,0 +1,6 @@
+E:\Proyectos Visual Studio\EmpresaBancaria\ENTIDADES\bin\Debug\ENTIDADES.dll
+E:\Proyectos Visual Studio\EmpresaBancaria\ENTIDADES\bin\Debug\ENTIDADES.pdb
+E:\Proyectos Visual Studio\EmpresaBancaria\ENTIDADES\obj\Debug\BANCO.ENTIDADES.csproj.AssemblyReference.cache
+E:\Proyectos Visual Studio\EmpresaBancaria\ENTIDADES\obj\Debug\BANCO.ENTIDADES.csproj.CoreCompileInputs.cache
+E:\Proyectos Visual Studio\EmpresaBancaria\ENTIDADES\obj\Debug\ENTIDADES.dll
+E:\Proyectos Visual Studio\EmpresaBancaria\ENTIDADES\obj\Debug\ENTIDADES.pdb
